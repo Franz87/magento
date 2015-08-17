@@ -1,0 +1,275 @@
+
+<div class="nav-bar">
+<!-- menu start -->
+<ul id="nav">
+<li  class=" active  level0"> <a href="http://localhost/magento/index.php/admin/dashboard/index/key/$dashboard/index$/"   class="active"><span>Dashboard</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Vendite</span></a>
+<ul >
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/sales_order/index/key/$sales_order/index$/"   class=""><span>Ordini</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/sales_invoice/index/key/$sales_invoice/index$/"   class=""><span>Fatture</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/sales_shipment/index/key/$sales_shipment/index$/"   class=""><span>Spedizioni</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/sales_creditmemo/index/key/$sales_creditmemo/index$/"   class=""><span>Note di credito</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/sales_transactions/index/key/$sales_transactions/index$/"   class=""><span>Transazioni</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/sales_recurring_profile/index/key/$sales_recurring_profile/index$/"   class=""><span>Profili ricorrenti (beta)</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/sales_billing_agreement/index/key/$sales_billing_agreement/index$/"   class=""><span>Accordo fatturazione</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/checkout_agreement/index/key/$checkout_agreement/index$/"   class=""><span>Termini e condizioni</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent last level1"> <a href="#"  onclick="return false" class=""><span>Tasse</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/tax_rule/index/key/$tax_rule/index$/"   class=""><span>Gestisci regole tasse</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/tax_rate/index/key/$tax_rate/index$/"   class=""><span>Gestisci Tax Zones &amp; Rates</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/tax_rate/importExport/key/$tax_rate/importExport$/"   class=""><span>Importa / Esporta Aliquote fiscali</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/tax_class_customer/index/key/$tax_class_customer/index$/"   class=""><span>Classi fiscali cliente</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/tax_class_product/index/key/$tax_class_product/index$/"   class=""><span>Classi tasse prodotto</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Catalogo</span></a>
+<ul >
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/catalog_product/index/key/$catalog_product/index$/"   class=""><span>Gestisci prodotti</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/catalog_category/index/key/$catalog_category/index$/"   class=""><span>Gestisci categorie</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Attributi</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/catalog_product_attribute/index/key/$catalog_product_attribute/index$/"   class=""><span>Gestisci attributi</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/catalog_product_set/index/key/$catalog_product_set/index$/"   class=""><span>Gestisci i set di attributi</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/urlrewrite/index/key/$urlrewrite/index$/"   class=""><span>Gestione URL Rewrite</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/catalog_search/index/key/$catalog_search/index$/"   class=""><span>Termini di ricerca</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Recensioni e Valutazioni</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level2"> <a href="#"  onclick="return false" class=""><span>Recensioni utenti</span></a>
+<ul >
+<li  class="  level3"> <a href="http://localhost/magento/index.php/admin/catalog_product_review/pending/key/$catalog_product_review/pending$/"   class=""><span>Recensioni in attesa</span></a>
+</li>
+<li  class="  last level3"> <a href="http://localhost/magento/index.php/admin/catalog_product_review/index/key/$catalog_product_review/index$/"   class=""><span>Tutte le recensioni</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/rating/index/key/$rating/index$/"   class=""><span>Gestisci valutazioni</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level1"> <a href="http://localhost/magento/index.php/admin/sitemap/index/key/$sitemap/index$/"   class=""><span>Sitemap Google</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Clienti</span></a>
+<ul >
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/customer/index/key/$customer/index$/"   class=""><span>Gestisci clienti</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/customer_group/index/key/$customer_group/index$/"   class=""><span>Gruppi Clienti</span></a>
+</li>
+<li  class="  last level1"> <a href="http://localhost/magento/index.php/admin/customer_online/index/key/$customer_online/index$/"   class=""><span>Clienti Online</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Promozioni</span></a>
+<ul >
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/promo_catalog/index/key/$promo_catalog/index$/"   class=""><span>Regole di prezzo del catalogo</span></a>
+</li>
+<li  class="  last level1"> <a href="http://localhost/magento/index.php/admin/promo_quote/index/key/$promo_quote/index$/"   class=""><span>Regole di prezzo del carrello</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Newsletter</span></a>
+<ul >
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/newsletter_template/index/key/$newsletter_template/index$/"   class=""><span>Newsletter Template</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/newsletter_queue/index/key/$newsletter_queue/index$/"   class=""><span>Newsletter Coda</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/newsletter_subscriber/index/key/$newsletter_subscriber/index$/"   class=""><span>Iscritti alla Newsletter</span></a>
+</li>
+<li  class="  last level1"> <a href="http://localhost/magento/index.php/admin/newsletter_problem/index/key/$newsletter_problem/index$/"   class=""><span>Report problemi newsletter</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>CMS</span></a>
+<ul >
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/cms_page/index/key/$cms_page/index$/"   class=""><span>Pagine</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/cms_block/index/key/$cms_block/index$/"   class=""><span>Blocchi statici</span></a>
+</li>
+<li  class="  last level1"> <a href="http://localhost/magento/index.php/admin/widget_instance/index/key/$widget_instance/index$/"   class=""><span>Widgets</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Report</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Vendite</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_sales/sales/key/$report_sales/sales$/"   class=""><span>Ordini</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_sales/tax/key/$report_sales/tax$/"   class=""><span>Tasse</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_sales/invoiced/key/$report_sales/invoiced$/"   class=""><span>Fatturato</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_sales/shipping/key/$report_sales/shipping$/"   class=""><span>Spedizione</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_sales/refunded/key/$report_sales/refunded$/"   class=""><span>Rimborsati</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_sales/coupons/key/$report_sales/coupons$/"   class=""><span>Coupons</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/paypal_reports/index/key/$paypal_reports/index$/"   class=""><span>PayPal Resoconto impostazioni</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Carrello</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_shopcart/product/key/$report_shopcart/product$/"   class=""><span>Prodotti nel carrello</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/report_shopcart/abandoned/key/$report_shopcart/abandoned$/"   class=""><span>Carrelli abbandonati</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Prodotti</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_sales/bestsellers/key/$report_sales/bestsellers$/"   class=""><span>Più venduti</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_product/sold/key/$report_product/sold$/"   class=""><span>Prodotti ordinati</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_product/viewed/key/$report_product/viewed$/"   class=""><span>Più visti</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_product/lowstock/key/$report_product/lowstock$/"   class=""><span>Scorte in esaurimento</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/report_product/downloads/key/$report_product/downloads$/"   class=""><span>Downloads</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Clienti</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_customer/accounts/key/$report_customer/accounts$/"   class=""><span>Nuovi accounts</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_customer/totals/key/$report_customer/totals$/"   class=""><span>Clienti per ordini totali</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/report_customer/orders/key/$report_customer/orders$/"   class=""><span>Clienti per numero di ordini</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Recensioni</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/report_review/customer/key/$report_review/customer$/"   class=""><span>Recensioni clienti</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/report_review/product/key/$report_review/product$/"   class=""><span>Recensioni prodotti</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/report/search/key/$report/search$/"   class=""><span>Termini di ricerca</span></a>
+</li>
+<li  class="  last level1"> <a href="http://localhost/magento/index.php/admin/report_statistics/index/key/$report_statistics/index$/"   class=""><span>Aggiorna statistiche</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Sistema</span></a>
+<ul >
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/system_account/index/key/$system_account/index$/"   class=""><span>Il mio account</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/notification/index/key/$notification/index$/"   class=""><span>Notifiche</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Strumenti</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/system_backup/index/key/$system_backup/index$/"   class=""><span>Backups</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/compiler_process/index/key/$compiler_process/index$/"   class=""><span>Compilation</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Servizi web</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/api_user/index/key/$api_user/index$/"   class=""><span>SOAP/XML-RPC – Utenti</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/api_role/index/key/$api_role/index$/"   class=""><span>SOAP/XML-RPC – Ruoli</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/api2_role/index/key/$api2_role/index$/"   class=""><span>REST - Roles</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/api2_attribute/index/key/$api2_attribute/index$/"   class=""><span>REST - Attributes</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/oauth_consumer/index/key/$oauth_consumer/index$/"   class=""><span>REST - OAuth utenti</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/oauth_authorizedTokens/index/key/$oauth_authorizedTokens/index$/"   class=""><span>REST - OAuth Tokens autorizzate</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/oauth_admin_token/index/key/$oauth_admin_token/index$/"   class=""><span>REST – Mie app</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/system_design/index/key/$system_design/index$/"   class=""><span>Design</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Importa/Esporta</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/import/index/key/$import/index$/"   class=""><span>Importa</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/export/index/key/$export/index$/"   class=""><span>Esporta</span></a>
+</li>
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/system_convert_gui/index/key/$system_convert_gui/index$/"   class=""><span>Dataflow – Profili</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/system_convert_profile/index/key/$system_convert_profile/index$/"   class=""><span>Dataflow – Profili avanzati</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="http://localhost/magento/index.php/admin/system_currency/index/key/$system_currency/index$/"   class=""><span>Gestisci valuta</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/system_currency/index/key/$system_currency/index$/"   class=""><span>Tassi di cambio</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/system_currencysymbol/index/key/$system_currencysymbol/index$/"   class=""><span>Simboli</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/system_email_template/index/key/$system_email_template/index$/"   class=""><span>Email Transazionali</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/system_variable/index/key/$system_variable/index$/"   class=""><span>Variabili personalizzate</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Permessi</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/permissions_user/index/key/$permissions_user/index$/"   class=""><span>Utenti</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/permissions_role/index/key/$permissions_role/index$/"   class=""><span>Ruoli</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Magento Connect</span></a>
+<ul >
+<li  class="  level2"> <a href="http://localhost/magento/index.php/admin/extension_local/index/key/$extension_local/index$/"   class=""><span>Magento Connect Manager</span></a>
+</li>
+<li  class="  last level2"> <a href="http://localhost/magento/index.php/admin/extension_custom/index/key/$extension_custom/index$/"   class=""><span>Pacchetto estensioni</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/cache/index/key/$cache/index$/"   class=""><span>Gestione della Cache</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/process/list/key/$process/list$/"   class=""><span>Gestione Indice</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/system_store/index/key/$system_store/index$/"   class=""><span>Gestione negozi</span></a>
+</li>
+<li  class="  level1"> <a href="http://localhost/magento/index.php/admin/sales_order_status/index/key/$sales_order_status/index$/"   class=""><span>Status ordine</span></a>
+</li>
+<li  class="  last level1"> <a href="http://localhost/magento/index.php/admin/system_config/index/key/$system_config/index$/"   class=""><span>Configurazione</span></a>
+</li>
+</ul>
+</li>
+</ul>
+<!-- menu end -->
+
+    <a id="page-help-link" href="http://www.magentocommerce.com/gethelp/it_IT/Mage_Adminhtml/dashboard/index/">Ottieni aiuto per questa pagina</a>
+    <script type="text/javascript">$('page-help-link').target = 'magento_page_help'</script>
+
+</div>

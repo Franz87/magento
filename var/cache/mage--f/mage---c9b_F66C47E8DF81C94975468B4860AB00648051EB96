@@ -1,0 +1,26 @@
+<ul class="catblocks">
+    <li>
+    <a href="http://localhost/magento/women/new-arrivals.html">
+        <img src="http://localhost/magento/media/wysiwyg/Womennewarrivalsimg.jpg" alt="New Arrivals" />
+        <span>New Arrivals</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://localhost/magento/women/tops-blouses.html">
+        <img src="http://localhost/magento/media/wysiwyg/Womentopsimg.jpg" alt="Tops &amp; Blouses" />
+        <span>Tops &amp; Blouses</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://localhost/magento/women/pants-denim.html">
+        <img src="http://localhost/magento/media/wysiwyg/Womenpantsimg.jpg" alt="Pants &amp; Denim" />
+        <span>Pants &amp; Denim</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://localhost/magento/women/dresses-skirts.html">
+        <img src="http://localhost/magento/media/wysiwyg/Womenskirtsimg.jpg" alt="Dresses &amp; Skirts" />
+        <span>Dresses &amp; Skirts</span>
+    </a>
+    </li>
+</ul>
